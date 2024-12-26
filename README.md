@@ -50,10 +50,9 @@ To contribute, please fork this repository, make your changes, and submit a pull
 
 ---
 
-## License
-This project is licensed under the [MIT License](LICENSE).
 
----
+
+
 
 ## Credits
 - Inspired by internet cat culture and the joy it brings.
