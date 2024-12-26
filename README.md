@@ -15,7 +15,8 @@
 
 ## How to Use
 1. **Download the Cat Graphic:**
-   - [Click here to download](cat.jpg) the default simple cat graphic.
+   - [Click here to download](https://raw.githubusercontent.com/AngshuKarmakar/Look-at/main/assets/cat.jpg)
+) the default simple cat graphic.
 
 2. **Incorporate in Your Project:**
    - Add the graphic to your project folder.
