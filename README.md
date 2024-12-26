@@ -15,7 +15,7 @@
 
 ## How to Use
 1. **Download the Cat Graphic:**
-   - [Click here to download](#) the default simple cat graphic.
+   - [Click here to download](cat.jpg) the default simple cat graphic.
 
 2. **Incorporate in Your Project:**
    - Add the graphic to your project folder.
